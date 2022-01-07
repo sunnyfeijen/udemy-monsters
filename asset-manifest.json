@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/udemy-monsters/static/css/main.0e803fce.css",
+    "main.js": "/udemy-monsters/static/js/main.ad8e914d.js",
+    "static/js/787.a044af5f.chunk.js": "/udemy-monsters/static/js/787.a044af5f.chunk.js",
+    "index.html": "/udemy-monsters/index.html",
+    "main.0e803fce.css.map": "/udemy-monsters/static/css/main.0e803fce.css.map",
+    "main.ad8e914d.js.map": "/udemy-monsters/static/js/main.ad8e914d.js.map",
+    "787.a044af5f.chunk.js.map": "/udemy-monsters/static/js/787.a044af5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e803fce.css",
+    "static/js/main.ad8e914d.js"
+  ]
+}
